@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "link": "https://spb.hh.ru/vacancy/90214609?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "company": "Университет искусственного интеллекта",
+    "city": "Москва",
+    "salary": "до 150 000 ₽"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/90820885?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "company": "ООО Пункт Е",
+    "city": "Москва",
+    "salary": "Не указана"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/88878122?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "company": "ООО Медиапоинт",
+    "city": "Москва",
+    "salary": "Не указана"
+  },
+  {
+    "link": "https://spb.hh.ru/vacancy/88654195?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python",
+    "company": "АНО ЦИСМ",
+    "city": "Москва",
+    "salary": "Не указана"
+  }
+]
